@@ -1,0 +1,35 @@
+{
+  "name": "yhoiseth/capitalize-personal-names-with-stringy",
+  "description": "A PHP library that helps you capitalize personal names",
+  "keywords": [
+    "personal",
+    "utility",
+    "string",
+    "manipulation",
+    "name",
+    "uppercase",
+    "capitalize"
+  ],
+  "homepage": "https://github.com/yhoiseth/CapitalizePersonalNamesWithStringy",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Yngve Høiseth",
+      "email": "yhoiseth@gmail.com",
+      "homepage": "http://www.yhoiseth.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "danielstjules/stringy": "~2.3"
+  },
+  "support": {
+    "issues": "https://github.com/yhoiseth/CapitalizePersonalNamesWithStringy/issues",
+    "source": "https://github.com/yhoiseth/CapitalizePersonalNamesWithStringy"
+  },
+  "autoload": {
+    "psr-4": {
+      "CapitalizePersonalNamesWithStringy\\": "src/"
+    }
+  }
+}
