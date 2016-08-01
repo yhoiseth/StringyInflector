@@ -12,6 +12,7 @@ class CapitalizePersonalNamesWithStringyTest extends PHPUnit_Framework_TestCase
      */
     public function testCapitalizePersonalName($expected, $str, $encoding = null)
     {
+        /** @var S $stringy */
         $stringy = S::create($str, $encoding);
         $result = $stringy->capitalizePersonalName();
         $this->assertEquals($expected, $result);
