@@ -13,7 +13,7 @@ Add the following to your `composer.json`:
 
 ```json
 "require": {
-        "yhoiseth/capitalize-personal-names-with-stringy": "~0.0.1"
+        "yhoiseth/stringy-inflector": "~0.0.1"
 },
 "repositories": [
     {

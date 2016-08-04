@@ -1,5 +1,5 @@
 {
-  "name": "yhoiseth/capitalize-personal-names-with-stringy",
+  "name": "yhoiseth/stringy-inflector",
   "description": "A PHP library that helps you capitalize personal names",
   "keywords": [
     "personal",
