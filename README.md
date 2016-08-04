@@ -13,7 +13,7 @@ Add the following to your `composer.json`:
 
 ```json
 "require": {
-        "yhoiseth/stringy-inflector": "~0.0.3"
+        "yhoiseth/stringy-inflector": "0.0.3"
 },
 "repositories": [
     {
