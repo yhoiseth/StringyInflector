@@ -4,8 +4,8 @@
          stopOnFailure="false"
          syntaxCheck="false">
     <testsuites>
-        <testsuite name="CapitalizePersonalNamesWithStringy">
-            <file>tests/CapitalizePersonalNamesWithStringyTest.php</file>
+        <testsuite name="StringyInflector">
+            <file>tests/StringyInflectorTest.php</file>
         </testsuite>
     </testsuites>
     <php>

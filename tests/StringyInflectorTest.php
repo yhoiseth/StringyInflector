@@ -1,11 +1,11 @@
 <?php
 
 require_once __DIR__ . "/../vendor/autoload.php";
-require __DIR__ . '/../src/CapitalizePersonalNamesWithStringy.php';
+require __DIR__ . '/../src/StringyInflector.php';
 
-use CapitalizePersonalNamesWithStringy\CapitalizePersonalNamesWithStringy as S;
+use StringyInflector\StringyInflector as S;
 
-class CapitalizePersonalNamesWithStringyTest extends PHPUnit_Framework_TestCase
+class StringyInflectorTest extends PHPUnit_Framework_TestCase
 {
     /**
      * @dataProvider capitalizePersonalNameProvider()

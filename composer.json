@@ -10,7 +10,7 @@
     "uppercase",
     "capitalize"
   ],
-  "homepage": "https://github.com/yhoiseth/CapitalizePersonalNamesWithStringy",
+  "homepage": "https://github.com/yhoiseth/StringyInflector",
   "license": "MIT",
   "authors": [
     {
@@ -24,12 +24,12 @@
     "danielstjules/stringy": "~2.3"
   },
   "support": {
-    "issues": "https://github.com/yhoiseth/CapitalizePersonalNamesWithStringy/issues",
-    "source": "https://github.com/yhoiseth/CapitalizePersonalNamesWithStringy"
+    "issues": "https://github.com/yhoiseth/StringyInflector/issues",
+    "source": "https://github.com/yhoiseth/StringyInflector"
   },
   "autoload": {
     "psr-4": {
-      "CapitalizePersonalNamesWithStringy\\": "src/"
+      "StringyInflector\\": "src/"
     }
   }
 }

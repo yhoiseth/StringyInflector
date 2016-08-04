@@ -1,10 +1,10 @@
 <?php
 
-namespace CapitalizePersonalNamesWithStringy;
+namespace StringyInflector;
 
 use Stringy\Stringy;
 
-class CapitalizePersonalNamesWithStringy extends Stringy
+class StringyInflector extends Stringy
 {
     /**
      *
