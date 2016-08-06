@@ -9,18 +9,8 @@ StringyInflector helps you capitalize personal names by checking against a list 
 
  
 ## Installation
-Add the following to your `composer.json`:
-
-```json
-"require": {
-        "yhoiseth/stringy-inflector": "0.0.3"
-},
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/yhoiseth/StringyInflector"
-    }
-],
+```shell
+composer require yhoiseth/stringy-inflector
 ```
 
 ## Usage
