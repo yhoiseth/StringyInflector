@@ -1,4 +1,6 @@
 # StringyInflector
+[![Build Status](https://travis-ci.org/yhoiseth/StringyInflector.svg?branch=master)](https://travis-ci.org/yhoiseth/StringyInflector)
+
 A PHP library that helps you capitalize personal names. Extends [Stringy](https://github.com/danielstjules/Stringy), a PHP string manipulation library with multibyte support.
 
 Personal names such as "Marcus Aurelius" are sometimes typed incorrectly using lowercase ("marcus aurelius").
